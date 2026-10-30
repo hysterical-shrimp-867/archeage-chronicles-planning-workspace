@@ -1,0 +1,22 @@
+{
+  "name": "archeage-chronicles-planning-workspace",
+  "displayName": "ArcheAge Chronicles Planning Workspace",
+  "programType": "planning-workspace",
+  "repositoryContents": "Project documentation and artwork",
+  "downloadPage": "https://meteoric-rook-835.github.io/",
+  "descriptionSource": "Project owner",
+  "sections": [
+    "Character profiles",
+    "Activity notes",
+    "Equipment planning"
+  ],
+  "topics": [
+    "archeage-chronicles-planning-workspace",
+    "archeage-chronicles-tools",
+    "archeage-chronicles-menu",
+    "archeage-chronicles-settings",
+    "archeage-chronicles-configs",
+    "archeage-chronicles-character-profiles",
+    "archeage-chronicles-activity-notes"
+  ]
+}
